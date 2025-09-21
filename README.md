@@ -1,5 +1,5 @@
 <h1 align="center">AMIGO-SECRETO</h1>
-![Imagen representativa de Amigo Secreto](assets/amigo-secreto.png)
+![Imagen representativa de Amigo Secreto]([assets/amigo-secreto.png](https://tecnicasdegrupo.wordpress.com/wp-content/uploads/2017/04/amigo_secreto.jpg?w=318))
 Aplicación web para agregar nombres de amigos y realizar u sorteo aleatorio del "amigo secreto"
 
 # ESTADO DEL PROYECTO : FINALIZADO
