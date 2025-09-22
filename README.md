@@ -1,5 +1,6 @@
 <h1 align="center">AMIGO-SECRETO</h1>
-![Imagen representativa de Amigo Secreto](assets/amigoChevere.jpg)
+
+![imagen de amigo](https://github.com/user-attachments/assets/bfc96211-bd90-4fed-93b5-750bcf123c93)
 Aplicación web para agregar nombres de amigos y realizar u sorteo aleatorio del "amigo secreto"
 
 # ESTADO DEL PROYECTO : FINALIZADO
